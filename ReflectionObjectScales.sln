@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionObjectScales", "ReflectionObjectScales\ReflectionObjectScales.csproj", "{965AE68E-059A-4562-A235-8C9DBBB3E38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionObjectScales.Tests", "ReflectionObjectScales.Tests\ReflectionObjectScales.Tests.csproj", "{AB89B3B0-95DB-4525-ABE7-B7DBE49026BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965AE68E-059A-4562-A235-8C9DBBB3E38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965AE68E-059A-4562-A235-8C9DBBB3E38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965AE68E-059A-4562-A235-8C9DBBB3E38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965AE68E-059A-4562-A235-8C9DBBB3E38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB89B3B0-95DB-4525-ABE7-B7DBE49026BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB89B3B0-95DB-4525-ABE7-B7DBE49026BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB89B3B0-95DB-4525-ABE7-B7DBE49026BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB89B3B0-95DB-4525-ABE7-B7DBE49026BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
